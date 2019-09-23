@@ -1,8 +1,13 @@
-Hangman app created using JavaScript and basic CSS
+# Hangman app 
 
-Type anywhere in window to make guesses. Only unique and incorrect guesses reduce the guesses remaining. Playing status is displayed in the console.
+### Created using HTML, CSS and JavaScript
 
-Uses babel for compatibility of modern JavaScript with older browsers
-Uses webpack to convert four JS files into one minified bundle.js file
++ Type anywhere in window to make guesses
++ Only unique and incorrect guesses reduce the guesses remaining
++ Playing status is displayed in the console.
+</br>
 
-Served from public directory
++ Uses babel for compatibility of modern JavaScript with older browsers
++ Uses webpack to convert four JS files into one minified bundle.js file
+
+<p>Served from public directory with JavaScript source files prior to webpack compilation in src directory</P>
